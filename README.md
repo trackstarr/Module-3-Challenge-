@@ -2,7 +2,7 @@
 
 Modified a Javascript file to allow the user to create a randomized password. 
 
-Character length specifications were set to a min. length of 8 characters and a max lenght of 120 characters using a window.prompt. 
+Character length specifications were set to a min. length of 8 characters and a max length of 120 characters using a window.prompt. 
 
 Also specified whether the user wanted to wanted to include various character types (Uppercase, Lowercase, Numeric, & symbols) using window.confirm 
 
